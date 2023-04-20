@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIcRC-nCEbRSDGH-9-D6HKnvUqiwUIx60h1w&usqp=CAU" group-title="Bora de Clipe", Tácio TV =D 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpopsexy.png" group-title="Bora de Clipe", Sexy KpopTV
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="Bora de Clipe", KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Bora de Clipe", 1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PozF9MT.png" tvg-id="FirstMusicChannel.by" group-title="Bora de Clipe",1Mus (Belarus)
 http://hz1.teleport.cc/HLS/HD.m3u8
@@ -109,6 +103,9 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Mhumyod.png" group-title="Novos",REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Bora de Clipe", 1HD Music (disabled)
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+
 #EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-id="AllSports.br" group-title="Brazil",ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" tvg-id="COMBrasil.br" group-title="Brazil",COM Brasil
@@ -137,3 +134,4 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-name="Fora Tedio TV" tvg-logo="https://play.foratedio.com/img/foratedio-watermark.png" group-title="Brazil",Fora Tedio TV
 http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
+
